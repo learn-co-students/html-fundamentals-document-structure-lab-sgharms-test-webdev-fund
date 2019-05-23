@@ -6,7 +6,7 @@
 2. Recognize HTML comments
 3. Describe the `head` section and its contents
 4. Create an HTML document
-
+ 
 ## Introduction
 
 Every HTML document has a specific set of required tags. Because these are
